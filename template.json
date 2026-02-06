@@ -5,6 +5,9 @@
   "description": "Technical luxury automation platform landing page with sophisticated animations and refined aesthetics",
   "category": "landing-page",
   "subcategory": "saas",
+  "repository": "https://github.com/Little-Devs/template-flowforge",
+  "demoUrl": "flow-forge.jibbr.dev",
+  "previewImage": "",
   "techStack": {
     "framework": "Astro",
     "styling": "CSS",
